@@ -1,0 +1,7 @@
+model,batch_size,params_m,flops_g,latency_ms,fps,vram_mb
+Standard U-Net,1,7.76,13.75,2.0,501.1,228.1
+Standard U-Net,4,7.76,13.75,6.36,628.6,283.2
+Standard U-Net,16,7.76,13.75,23.6,677.9,952.2
+MS-VMUNet-Lite [Ours],1,1.85,11.02,15.34,65.2,207.8
+MS-VMUNet-Lite [Ours],4,1.85,11.02,32.68,122.4,551.3
+MS-VMUNet-Lite [Ours],16,1.85,11.02,120.19,133.1,2100.8

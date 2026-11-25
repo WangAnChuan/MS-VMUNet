@@ -1,0 +1,7 @@
+dataset,sample_count,model,dice,iou,hd95,sensitivity,specificity
+CVC-ClinicDB,612,Standard U-Net,0.6139,0.5132,65.6,0.7371,0.9513
+CVC-ColonDB,380,Standard U-Net,0.5207,0.432,54.74,0.5689,0.9801
+ETIS,196,Standard U-Net,0.3871,0.327,59.11,0.4424,0.9823
+CVC-ClinicDB,612,MS-VMUNet-Lite [Ours],0.6769,0.5892,46.12,0.815,0.9273
+CVC-ColonDB,380,MS-VMUNet-Lite [Ours],0.6132,0.5236,49.32,0.6969,0.964
+ETIS,196,MS-VMUNet-Lite [Ours],0.4151,0.3559,65.04,0.5487,0.9549
