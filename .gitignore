@@ -32,3 +32,5 @@ data/*
 
 *.zip
 *.tar.gz
+# JeikCode user uploads (not project source)
+.jeikcode_store/
